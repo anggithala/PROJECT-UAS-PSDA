@@ -4,6 +4,7 @@ project ini dibuat untuk memenuhi salah satu nilai praktikum struktur data dan a
 //ANGGITHA LIDYA ANGGRAINI
 //1910512011
 //UAS PRAKTIKUM STRUKTUR DATA DAN ALGORITHMA
+//anggithala@gmail.com
 
 #include <stdio.h>
 #include <conio.h>
